@@ -1,4 +1,4 @@
-package modelo;
+package com.proyecto.reservas.modelo;
 
 public class Empleado {
 
