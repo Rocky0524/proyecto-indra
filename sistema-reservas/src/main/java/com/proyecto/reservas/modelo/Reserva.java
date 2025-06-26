@@ -1,4 +1,5 @@
-package modelo;
+package com.proyecto.reservas.modelo;
+
 
 import java.sql.Date;
 
@@ -62,3 +63,4 @@ public class Reserva {
         this.horaFin = horaFin;
     }
 }
+
